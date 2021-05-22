@@ -121,7 +121,9 @@ networkmanager
 #applications
 gnome-terminal
 gnome-screenshot
+gnome-photos
 gedit
+galculator
 
 #Installer
 grub
