@@ -121,7 +121,8 @@ networkmanager
 #applications
 gnome-terminal
 gnome-screenshot
-gnome-photos
+eog
+evince
 gedit
 galculator
 
