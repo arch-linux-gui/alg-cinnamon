@@ -151,3 +151,6 @@ mcmojave-cursors
 #printing
 cups
 system-config-printer
+
+#AUR Helper
+paru
