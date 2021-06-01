@@ -110,6 +110,7 @@ cinnamon
 xdg-user-dirs
 bash-completion
 networkmanager
+base-devel
 
 #applications
 gnome-terminal
