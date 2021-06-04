@@ -111,6 +111,7 @@ xdg-user-dirs
 bash-completion
 networkmanager
 base-devel
+pacman-contrib
 
 #applications
 gnome-terminal
