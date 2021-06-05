@@ -146,6 +146,7 @@ mcmojave-cursors
 #printing
 cups
 system-config-printer
+blueberry
 
 #AUR Helper
 paru
