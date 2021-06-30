@@ -120,6 +120,9 @@ eog
 evince
 gedit
 galculator
+gnome-software
+archlinux-appstream-data-pamac
+gnome-software-packagekit-plugin
 
 #Installer
 grub
