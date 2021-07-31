@@ -102,7 +102,7 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI CInnamon Core
+#Arch Linux GUI Cinnamon Core
 xorg
 lightdm
 lightdm-gtk-greeter
