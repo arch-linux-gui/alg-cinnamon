@@ -102,18 +102,21 @@ xfsprogs
 xl2tpd
 zsh
 
-#Arch Linux GUI
+#Arch Linux GUI CInnamon Core
 xorg
 lightdm
 lightdm-gtk-greeter
-cinnamon
 xdg-user-dirs
 bash-completion
 networkmanager
 base-devel
 pacman-contrib
 
-#applications
+#Arch Linux GUI Cinnamon
+cinnamon
+alg-cinnamon-settings
+
+#ALG Cinnamon Applications
 gnome-terminal
 gnome-screenshot
 eog
@@ -133,6 +136,7 @@ os-prober
 
 #browser
 firefox
+alg-firefox-settings
 
 #media player
 vlc
