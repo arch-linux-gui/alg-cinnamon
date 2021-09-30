@@ -131,7 +131,7 @@ neofetch
 #Installer
 grub
 calamares
-alg-xfce-cala-config
+alg-theme-cala-config
 os-prober
 
 #browser
@@ -158,3 +158,8 @@ blueberry
 
 #AUR Helper
 paru
+
+#NVIDIA Drivers & Tools
+nvidia
+nvidia-utils
+nvidia-settings
