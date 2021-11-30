@@ -105,6 +105,7 @@ zsh
 xorg
 lightdm
 lightdm-gtk-greeter
+xf86-input-libinput
 xdg-user-dirs
 bash-completion
 networkmanager
