@@ -111,6 +111,7 @@ bash-completion
 networkmanager
 base-devel
 pacman-contrib
+virtualbox-guest-utils
 
 #Arch Linux GUI Cinnamon
 cinnamon
@@ -124,6 +125,8 @@ evince
 gedit
 galculator
 neofetch
+bluez-utils
+pulseaudio-bluetooth
 
 #Installer
 grub
